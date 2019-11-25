@@ -15,3 +15,14 @@
 * _I was born and raised in Staten Island_
 
 ## **I hope you like my repo!**
+
+
+Schedule
+* 1. Earth Science
+* 2. Algebra II
+* 3. Software Engineering
+* 4. English 5
+* 5. Spanish 3
+* 6. US History
+* 7. Lunch
+* 8. Play Production (with the homies)
